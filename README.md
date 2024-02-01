@@ -1,7 +1,7 @@
 ### 안녕하세요. 프론트엔드 개발자 박종광입니다.
 
-노션 이력서(https://jgparkin.notion.site/25b512ea824a4f5282a31f316010db18?pvs=4)
-공부 기록(https://jgparkin.notion.site/1e35438c23254622bd31b5aedaa7e76f?pvs=4)
+[노션 이력서](https://jgparkin.notion.site/25b512ea824a4f5282a31f316010db18?pvs=4)
+[공부 기록](https://jgparkin.notion.site/1e35438c23254622bd31b5aedaa7e76f?pvs=4)
 
 <!--
 **ykhtdt/ykhtdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
