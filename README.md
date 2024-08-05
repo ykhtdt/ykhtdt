@@ -1,3 +1,3 @@
-# Hi. I'm Jonggwang
+#### Hi. I'm Jonggwang
 
-I'm a Seoul-based frontend developer.
+미래에는 뭐든 혼자 만들어내고 싶다.
